@@ -1,3 +1,8 @@
+
+Future Generation Computer Systems
+Speed up genetic algorithms in the cloud using software containers
+
+
 # AMQPGA
 
 AMQPGA is an implementation in Go of the master/slave parallelisation model for Genetic Algorithms based on Docker and message queues.
